@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arun Neupane!
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=arundada9000)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arundada9000&label=Profile%20views&color=0e75b6&style=flat" alt="arundada9000" /> </p>
 
 Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for coding, web development, and exploring new technologies. Here's a little about me:
 
@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 
 ## 📊 GitHub Stats
 
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunneupane&show_icons=true&theme=dark)
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arundada9000&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunneupane&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arundada9000&layout=compact&theme=dark)
 
 ---
 
