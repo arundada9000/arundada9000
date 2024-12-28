@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arun Neupane!
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=arunneupane)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=arundada9000)
 
 Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for coding, web development, and exploring new technologies. Here's a little about me:
 
