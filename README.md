@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 ## 🚀 About Me
 
 - 🎓 **6th semester CSIT student** in Nepal.
-- 🛠️ Skilled in **C++, C#, JavaScript**, and currently diving deep into **React**.
-- 🌐 Building cool web projects like **Progressive Web Apps**, **Sorting Visualizers**, and **Cryptography Algorithms**.
+- 🛠️ Skilled in **C, C++, html, Css, JavaScript**, and currently diving deep into **React**.
+- 🌐 Building cool web projects like **Progressive Web Apps**, **Data Structure Algorithm Visualizers**, and **Cryptography Algorithm Visualizers**.
 - 🎉 Member of the **BMC IT Club**, organizing events like **Code Olympiad**.
 - 🌟 Always eager to learn and share knowledge with the tech community.
 
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 
 ## 🛠️ Skills & Tools
 
-- **Programming Languages:** C++, C#, JavaScript.
+- **Programming Languages:**C, C++, html, Css, JavaScript.
 - **Frameworks & Libraries:** React, Vite, Tailwind CSS.
-- **Tools & Platforms:** GitHub, VSCode, WordPress.
+- **Tools & Platforms:** GitHub, VSCode, Netlify, Visual Studio.
 
 ---
 
@@ -34,9 +34,11 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 
 ## 🌟 Cool Projects
 
-- [**Cryptography Algorithm Solver**](#)
-- [**Sorting Algorithm Visualizer**](#)
-- [**Code Olympiad Website**](#)
+- [**My portfolio**](https://arunneupane.netlify.app)
+- [**Sorting Algorithm Visualizer**](https://easysorting.netlify.app)
+- [**Stack Algorithm Solver**](https://easystack.netlify.app)
+- [**Code Olympiad Website**](https://codeolympiad2081.netlify.app)
+- [**All Unit Converter**](https://allunitconverter.netlify.app)
 
 ---
 
