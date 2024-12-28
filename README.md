@@ -50,11 +50,12 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 
 Feel free to reach out to me via
 
-- [**Facebook**](https://facebook.com/arunneupane9000) – I am more active here.
-- [**Instagram**](https://instagram.com/arundada9000) – Follow me for more personal and tech-related posts.
-- [**WhatsApp**](https://wa.me/+9779811420975) – Get in touch with me directly for quick conversations.
-- [**Email**](mailto:arunneupane0000@gmail.com) – Feel free to email me for collaborations or queries.
-- [**Phone**](tel:+9779811420975) – You can also reach me by phone if needed.
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://facebook.com/arunneupane9000) – I am more active here.
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/arundada9000) – Follow me for more personal and tech-related posts.
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25F4C746.svg?&logo=whatsapp&logoColor=white)](https://wa.me/+9779811420975) – Get in touch with me directly for quick conversations.
+- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&logo=gmail&logoColor=white)](mailto:arunneupane0000@gmail.com) – Feel free to email me for collaborations or queries.
+- [![Phone](https://img.shields.io/badge/Phone-%234CAF50.svg?&logo=phone&logoColor=white)](tel:+9779811420975) – You can also reach me by phone if needed.
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://youtube.com/@code_with_ease) – Check out my videos and tutorials.
 
 ---
 
