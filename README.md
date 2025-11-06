@@ -10,10 +10,11 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 
 ![Student of BSc CSIT](https://img.shields.io/badge/Student%20of%20BSc%20CSIT-%2300A86B?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
-- 🎓 **6th semester CSIT student** in Nepal.
-- 🛠️ Skilled in **C, C++, HTML, CSS, JavaScript**, and currently diving deep into **React**.
-- 🌐 Building cool web projects like **Specific Event Websites**, **Progressive Web Apps**, **Data Structure Algorithm Visualizers**, and **Cryptography Algorithm Visualizers**.
+- 🎓 **8th semester CSIT student** in Nepal.
+- 🛠️ Skilled in **C, C++, HTML, CSS, JavaScript, Reactjs**, and currently diving deep into **Nextjs**.
+- 🌐 Building cool web projects like **Specific Event Websites**, **Progressive Web Apps**, **Data Structure Algorithm Visualizers**,**Cloning youtube, whatsapp** and **Cryptography Algorithm Visualizers**.
 - 🎉 Member of the **BMC IT Club**, organizing events like **Code Olympiad**.
+- 🎉 Executive Member of the **Code for Change** as **Tech Lead**, organizing events like **Code Fest**.
 - 🌟 Always eager to learn and share knowledge with the tech community.
 
 > **"I'm passionate about solving real-world problems with code and always learning something new."**
@@ -24,7 +25,7 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 
 - **Programming Languages:** C, C++, HTML, CSS, JavaScript.
 - **Frameworks & Libraries:** React, Vite, Tailwind CSS.
-- **Tools & Platforms:** GitHub, VSCode, Netlify, Visual Studio.
+- **Tools & Platforms:** GitHub, VSCode, Netlify,vercel, onrender Visual Studio, youtube.
 
 ---
 
@@ -55,7 +56,7 @@ Feel free to reach out to me via:
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25F4C746.svg?&logo=whatsapp&logoColor=white)](https://wa.me/+9779811420975) – Get in touch with me directly for quick conversations.
 - [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&logo=gmail&logoColor=white)](mailto:arunneupane0000@gmail.com) – Feel free to email me for collaborations or queries.
 - [![Phone](https://img.shields.io/badge/Phone-%234CAF50.svg?&logo=phone&logoColor=white)](tel:+9779811420975) – You can also reach me by phone if needed.
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://youtube.com/@code_with_ease) – Check out my videos and tutorials.
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://youtube.com/@arundada9000) – Check out my videos and tutorials.
 
 ---
 
