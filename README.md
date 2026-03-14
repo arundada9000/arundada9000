@@ -1,8 +1,10 @@
 # Hi, I'm Arun Neupane
 
+Building scalable web apps | React & Next.js enthusiast | Open‑source contributor
+
 [![Profile Views](https://komarev.com/ghpvc/?username=arundada9000&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/arundada9000)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtZDZ6MHdudHc1MHljdGEwcW92a3U5djd0aHdwazViZHR5aDIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c2lbMLWfL1mQ8/giphy.gif" width="100%" alt="Goku powering up">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtZDZ6MHdudHc1MHljdGEwcW92a3U5djd0aHdwazViZHR5aDIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c2lbMLWfL1mQ8/giphy.gif" width="200" alt="Goku powering up">
 
 Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for coding, web development, and exploring new technologies. Here's a glimpse of my journey:
 
@@ -11,8 +13,8 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 ## About Me
 
 - 🎓 **8th semester CSIT student** in Nepal.
-- 💼 **CTO at Sajilo Digital** – bridging business and technology.
-- 🛠️ Skilled in **C, C++, HTML, CSS, JavaScript, React, Next.js**, and currently diving deep into **Backend**.
+- 💼 **CTO at Sajilo Digital** – Your Vision, Our Innovation.
+- 🛠️ Skilled in **Git, GitHub, C, C++, HTML, CSS, JavaScript, React, Next.js**, and currently diving deep into **Backend**.
 - 🌐 Building real-world projects: company websites, e‑commerce platforms, event sites, PWAs, algorithm visualizers, and more.
 - 🤝 **BMC IT Club** member – organizing events like **Code Olympiad**.
 - ⚡ **Tech Lead & Vice Security at Code for Change** – safeguarding code and leading tech initiatives.
