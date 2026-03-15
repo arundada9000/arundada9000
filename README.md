@@ -1,10 +1,13 @@
-# Hi, I'm Arun Neupane
+<div align="center">
+<h1>Hi, I'm Arun Neupane</h1>
 
-Building scalable web apps | React & Next.js enthusiast | Open‑source contributor
+<p>Building scalable web apps | React & Next.js enthusiast | Open‑source contributor</p>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtZDZ6MHdudHc1MHljdGEwcW92a3U5djd0aHdwazViZHR5aDIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c2lbMLWfL1mQ8/giphy.gif" width="200" alt="Goku powering up">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=arundada9000&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/arundada9000)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtZDZ6MHdudHc1MHljdGEwcW92a3U5djd0aHdwazViZHR5aDIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c2lbMLWfL1mQ8/giphy.gif" width="200" alt="Goku powering up">
+</div>
 
 Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for coding, web development, and exploring new technologies. Here's a glimpse of my journey:
 
