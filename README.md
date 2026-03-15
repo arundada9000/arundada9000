@@ -100,5 +100,5 @@ Lots of Love ❤️ from Nepal
 </p>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI1b2FwaThlYjYzNWIwcG81eDNibnloMTlkbXN3eWlkMHVkanR2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJ1U3jkPwvnGTcTiRz/giphy.gif" width="200" alt="Goku flying on Nimbus">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0e75b6,100:1a1b27&tdescAlignY=55" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0e75b6,100:1a1b27&text=/arundada9000&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ANY%20PLATFORM&descAlignY=55" />
 </div>
