@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Arun Neupane</h1>
+<h1>Hi, I'm <span style="color:#8B5CF6;font-weight:bold">Arun Neupane</span></h1>
 
 <p>Building scalable web apps | React & Next.js enthusiast | Open‑source contributor</p>
 
@@ -90,7 +90,10 @@ Welcome to my GitHub profile! I'm a **BSc CSIT student** with a passion for codi
 
 ---
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI1b2FwaThlYjYzNWIwcG81eDNibnloMTlkbXN3eWlkMHVkanR2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJ1U3jkPwvnGTcTiRz/giphy.gif" width="80" alt="Goku flying on Nimbus">
-
-_Thanks for visiting! See you around._  
-**Lots of Love ❤️ from Nepal**
+<div align="center">
+<p> 
+Thanks for visiting! See you around. <br>
+Lots of Love ❤️ from Nepal
+</p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI1b2FwaThlYjYzNWIwcG81eDNibnloMTlkbXN3eWlkMHVkanR2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJ1U3jkPwvnGTcTiRz/giphy.gif" width="200" alt="Goku flying on Nimbus">
+</div>
