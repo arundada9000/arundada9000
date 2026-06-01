@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Arun%20Neupane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CTO%20%40%20Sajilo%20Digital%20%7C%20BSc.CSIT&descAlignY=58&descSize=18" />
 
@@ -31,20 +31,20 @@ I work with React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My roo
 Outside code: I think in systems, learn from builders, and watch a lot of anime. Attack on Titan taught me that the most dangerous thing is a person with a plan. Dragon Ball taught me there's always another level. I try to live by both.
 
 ```
-🎓  BSc. CSIT — Bhairahawa Multiple Campus (2021 – Present)
-🏢  CTO — Sajilo Digital Pvt. Ltd. (Oct 2025 – Apr 2026)
-🤝  Vice Secretary — Code for Change Rupandehi (2025 – Present)
-📍  Butwal, Lumbini, Nepal
-🏆  Girls in ICT Coding Competition — Winner
-🏆  CodeOlympiad 2080 — Winner
-⚔️  Currently watching: Re-reading JoJo's Bizarre Adventure
+  BSc. CSIT - Bhairahawa Multiple Campus (2021 - Present)
+  CTO - Sajilo Digital Pvt. Ltd. (Oct 2025 - Apr 2026)
+  Vice Secretary - Code for Change Rupandehi (2025 - Present)
+  Butwal, Lumbini, Nepal
+  Girls in ICT Coding Competition - Winner
+  CodeOlympiad 2080 - Winner
+⚔  Currently watching: Re-reading JoJo's Bizarre Adventure
 ```
 
 ---
 
 ## `> ls ./production-systems`
 
-### 🔵 [Code for Change Nepal](https://codeforchangenepal.com) · [GitHub](https://github.com/arundada9000/Code-for-Change)
+###  [Code for Change Nepal](https://codeforchangenepal.com) · [GitHub](https://github.com/arundada9000/Code-for-Change)
 
 > Full-stack platform for Nepal's national IT student community
 
@@ -55,7 +55,7 @@ Outside code: I think in systems, learn from builders, and watch a lot of anime.
 
 ---
 
-### 🔵 Nagrik Sahayata Pradali · [GitHub](https://github.com/arundada9000/police-branch-reporting-system)
+###  Nagrik Sahayata Pradali · [GitHub](https://github.com/arundada9000/police-branch-reporting-system)
 
 > Internal case management system - Area Police Office, Butwal _(private deployment)_
 
@@ -65,7 +65,7 @@ Outside code: I think in systems, learn from builders, and watch a lot of anime.
 
 ---
 
-### 🔵 [Sajilo Digital Website](https://sajilodigital.com.np) · [GitHub](https://github.com/arundada9000/sajilodigital)
+###  [Sajilo Digital Website](https://sajilodigital.com.np) · [GitHub](https://github.com/arundada9000/sajilodigital)
 
 > Cinematic company platform - Next.js 16 with terminal navigation & live project telemetry
 
@@ -170,11 +170,11 @@ Favourite problems: anything involving recursion trees, graph traversal, or dyna
 I'm not ashamed. Some of the best writing I've encountered is in anime - the strategic thinking in AoT, the sheer willpower arc in Dragon Ball, the absurd creativity of JoJo, the moral weight of Seven Deadly Sins. Good stories make you think differently. That bleeds into how I approach problems.
 
 ```
-✅  Attack on Titan          — Eren understood the assignment (eventually)
-✅  Dragon Ball / DBZ / DBS  — The original "there's always a higher level"
-✅  JoJo's Bizarre Adventure — Proof that creativity beats raw power, every arc
-✅  Seven Deadly Sins        — Favourite underrated power system in anime
-🔄  Currently exploring more — open to recs
+✅  Attack on Titan          - Eren understood the assignment (eventually)
+✅  Dragon Ball / DBZ / DBS  - The original "there's always a higher level"
+✅  JoJo's Bizarre Adventure - Proof that creativity beats raw power, every arc
+✅  Seven Deadly Sins        - Favourite underrated power system in anime
+  Currently exploring more - open to recs
 ```
 
 If you want to work with someone who thinks creatively, moves fast, and doesn't need to be told twice - let's build something.
@@ -219,3 +219,8 @@ If you want to work with someone who thinks creatively, moves fast, and doesn't 
 
  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0e75b6,100:1a1b27&text=/arundada9000&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ANY%20PLATFORM&descAlignY=55" />
 </div>
+---
+
+## License
+
+This project is for educational and personal learning purposes only. Commercial use, public deployment, or any revenue-generating use requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
