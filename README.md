@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=arundada9000&label=Profile%20Views&color=6d28d9&style=flat-square)](https://github.com/arundada9000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arunneupane.netlify.app-6d28d9?style=flat-square&logo=netlify&logoColor=white)](https://arunneupane.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arunneupane.netlify.app-6d28d9?style=flat-square&logo=netlify&logoColor=white)](https://arunneupane.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arundada9000-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arundada9000)
 [![Email](https://img.shields.io/badge/Email-arunneupane0000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arunneupane0000@gmail.com)
 
@@ -220,7 +220,3 @@ If you want to work with someone who thinks creatively, moves fast, and doesn't 
  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0e75b6,100:1a1b27&text=/arundada9000&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ANY%20PLATFORM&descAlignY=55" />
 </div>
 ---
-
-## License
-
-This project is for educational and personal learning purposes only. Commercial use, public deployment, or any revenue-generating use requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
