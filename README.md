@@ -1,13 +1,13 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Arun%20Neupane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CTO%20%40%20Sajilo%20Digital%20%7C%20BSc.CSIT&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Arun%20Neupane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BSc.CSIT%20%7C%20Open%20to%20Work&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=arundada9000&label=Profile%20Views&color=6d28d9&style=flat-square)](https://github.com/arundada9000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arunneupane.netlify.app-6d28d9?style=flat-square&logo=netlify&logoColor=white)](https://arunneupane.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arunneupane.vercel.app-6d28d9?style=flat-square&logo=vercel&logoColor=white)](https://arunneupane.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arundada9000-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arundada9000)
 [![Email](https://img.shields.io/badge/Email-arunneupane0000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arunneupane0000@gmail.com)
 
@@ -24,27 +24,43 @@ I'm a full-stack developer from Nepal who builds production systems - not just s
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtZDZ6MHdudHc1MHljdGEwcW92a3U5djd0aHdwazViZHR5aDIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c2lbMLWfL1mQ8/giphy.gif" width="200" alt="Goku powering up">
 </div>
 
-In the past year I've shipped a **biometric-auth platform for a national NGO**, a **case management system for Nepal Police** deployed on a private Ubuntu server, and a **cinematic company website** for a real software agency. I'm currently CTO at [Sajilo Digital](https://sajilodigital.com.np) and Vice Secretary at [Code for Change Rupandehi](https://codeforchangenepal.com).
+In the past year I've shipped a **biometric-auth platform for a national non-profit community**, a **case management system for Nepal Police** deployed on a private Ubuntu server, and a **cinematic company website** for a real software agency. I'm currently Vice Secretary at [Code for Change Rupandehi](https://codeforchangenepal.com), and until recently I was CTO at [Sajilo Digital](https://sajilodigital.com.np).
 
-I work with React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My roots are in C and C++ : I genuinely enjoy low-level logic, DSA, and understanding _why_ things work, not just _how_ to use them. I care about system architecture, clean APIs, and UX that doesn't get in the way.
+I build with React, Next.js, TypeScript, and Tailwind CSS, and I care about clean architecture and UX that doesn't get in the way. My roots are in C and C++: I genuinely enjoy DSA and understanding _why_ things work, not just _how_ to use them.
 
-Outside code: I think in systems, learn from builders, and watch a lot of anime. Attack on Titan taught me that the most dangerous thing is a person with a plan. Dragon Ball taught me there's always another level. I try to live by both.
+Outside code: I think in systems, learn from builders, and never stop leveling up.
+
+Most of my shipped work lives in private/client repositories - the public projects you see here are the tip of the iceberg.
 
 ```
-  BSc. CSIT - Bhairahawa Multiple Campus (2021 - Present)
+  BSc. CSIT - Bhairahawa Multiple Campus (2021 - 2026)
   CTO - Sajilo Digital Pvt. Ltd. (Oct 2025 - Apr 2026)
   Vice Secretary - Code for Change Rupandehi (2025 - Present)
   Butwal, Lumbini, Nepal
   Girls in ICT Coding Competition - Winner
   CodeOlympiad 2080 - Winner
-⚔  Currently watching: Re-reading JoJo's Bizarre Adventure
 ```
+
+---
+
+## `> ./status.sh`
+
+<div align="center">
+
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Yes-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](mailto:arunneupane0000@gmail.com)
+[![Freelance](https://img.shields.io/badge/Freelance-Available-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](mailto:arunneupane0000@gmail.com)
+
+**Open to full-time roles and freelance projects** - frontend-heavy full-stack work, dashboards, and anything that ships.
+
+If you want to work with someone who thinks creatively, moves fast, and doesn't need to be told twice - let's build something.
+
+</div>
 
 ---
 
 ## `> ls ./production-systems`
 
-###  [Code for Change Nepal](https://codeforchangenepal.com) · [GitHub](https://github.com/arundada9000/Code-for-Change)
+### [Code for Change Nepal](https://codeforchangenepal.com) · [GitHub](https://github.com/arundada9000/Code-for-Change)
 
 > Full-stack platform for Nepal's national IT student community
 
@@ -55,7 +71,7 @@ Outside code: I think in systems, learn from builders, and watch a lot of anime.
 
 ---
 
-###  Nagrik Sahayata Pradali · [GitHub](https://github.com/arundada9000/police-branch-reporting-system)
+### Nagrik Sahayata Pradali · [GitHub](https://github.com/arundada9000/police-branch-reporting-system)
 
 > Internal case management system - Area Police Office, Butwal _(private deployment)_
 
@@ -65,7 +81,7 @@ Outside code: I think in systems, learn from builders, and watch a lot of anime.
 
 ---
 
-###  [Sajilo Digital Website](https://sajilodigital.com.np) · [GitHub](https://github.com/arundada9000/sajilodigital)
+### [Sajilo Digital Website](https://sajilodigital.com.np) · [GitHub](https://github.com/arundada9000/sajilodigital)
 
 > Cinematic company platform - Next.js 16 with terminal navigation & live project telemetry
 
@@ -103,54 +119,54 @@ These started as experiments and YouTube content. They show the thinking, not ju
 
 ---
 
-## `> cat skills.json`
+## `> cat ./tech-stack`
 
-```json
-{
-  "languages": ["C", "C++", "JavaScript ES2024", "TypeScript", "HTML5", "CSS3"],
-  "frontend": [
-    "React 19",
-    "Next.js 16",
-    "Vite",
-    "Tailwind CSS v4",
-    "Framer Motion",
-    "GSAP"
-  ],
-  "backend": [
-    "Node.js",
-    "Express.js",
-    "PostgreSQL",
-    "MongoDB",
-    "Prisma ORM",
-    "REST APIs",
-    "JWT",
-    "WebAuthn"
-  ],
-  "tools": [
-    "Git",
-    "GitHub",
-    "Docker",
-    "Vercel",
-    "Netlify",
-    "Cloudinary",
-    "Linux (Ubuntu)",
-    "PWA",
-    "SEO",
-    "Zod"
-  ],
-  "strengths": [
-    "DSA",
-    "System architecture",
-    "Logical thinking",
-    "Problem decomposition"
-  ],
-  "currently": [
-    "Backend engineering",
-    "Open source",
-    "Building with people who move fast"
-  ]
-}
-```
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>Backend - when the frontend needs tying together</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<div align="center">
+
+**Strengths:** DSA · System architecture · Problem decomposition
+**Currently:** Open source · Freelance · Building with people who move fast
+
+</div>
 
 ---
 
@@ -162,22 +178,6 @@ Favourite problems: anything involving recursion trees, graph traversal, or dyna
 
 > _"A small axe can cut down a big tree - if you keep chopping."_  
 > That's not an anime quote. But it should be.
-
----
-
-## `> cat ./anime/watchlist.md`
-
-I'm not ashamed. Some of the best writing I've encountered is in anime - the strategic thinking in AoT, the sheer willpower arc in Dragon Ball, the absurd creativity of JoJo, the moral weight of Seven Deadly Sins. Good stories make you think differently. That bleeds into how I approach problems.
-
-```
-✅  Attack on Titan          - Eren understood the assignment (eventually)
-✅  Dragon Ball / DBZ / DBS  - The original "there's always a higher level"
-✅  JoJo's Bizarre Adventure - Proof that creativity beats raw power, every arc
-✅  Seven Deadly Sins        - Favourite underrated power system in anime
-  Currently exploring more - open to recs
-```
-
-If you want to work with someone who thinks creatively, moves fast, and doesn't need to be told twice - let's build something.
 
 ---
 
@@ -193,13 +193,21 @@ If you want to work with someone who thinks creatively, moves fast, and doesn't 
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arundada9000&theme=onedark&no-frame=true&no-bg=true&row=1" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arundada9000&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 ## `> ./connect.sh`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arunneupane.netlify.app-6d28d9?style=for-the-badge&logo=netlify&logoColor=white)](https://arunneupane.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arunneupane.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://arunneupane.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arundada9000)
 [![YouTube](https://img.shields.io/badge/YouTube-arundada9000-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arundada9000)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779811420975)
@@ -219,4 +227,3 @@ If you want to work with someone who thinks creatively, moves fast, and doesn't 
 
  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0e75b6,100:1a1b27&text=/arundada9000&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ANY%20PLATFORM&descAlignY=55" />
 </div>
----
