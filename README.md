@@ -30,7 +30,7 @@ I build with React, Next.js, TypeScript, and Tailwind CSS, and I care about clea
 
 Outside code: I think in systems, learn from builders, and never stop leveling up.
 
-Most of my shipped work lives in private/client repositories - the public projects you see here are the tip of the iceberg.
+Most of my shipped work lives in private/client repositories - the public projects you see here are the tip of the iceberg.I have total 93 repositories.
 
 ```
   BSc. CSIT - Bhairahawa Multiple Campus (2021 - 2026)
